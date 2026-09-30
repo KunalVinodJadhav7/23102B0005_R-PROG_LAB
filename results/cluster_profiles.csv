@@ -1,0 +1,3 @@
+"Cluster","Segment_Name","Customers","Share_Percent","Recency_Median","Frequency_Median","Monetary_Median","Avg_Transaction_Value_Median","Total_Quantity_Median","Purchase_Frequency_Median","Product_Variety_Median"
+"1","Champions / High-Value",3288,55.94,40.9611111111111,6,1973.87,334.984,1151,0.521046936752224,89
+"2","Occasional / Low-Value",2590,44.06,366.935416666667,1,309.27,195.455,162,30,18
